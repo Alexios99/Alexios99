@@ -1,6 +1,6 @@
 ### Hi, I'm Alexios Philalithis 
 
-Computer Science (BSc Hons) | University of Manchester | Seeking Quantitative, Data Engineering and Machine Learning. Roles
+Computer Science (BSc Hons) | University of Manchester | Seeking Quantitative, Data Engineering and Machine Learning roles.
 
 I build reliable, empirical models and high-performance data pipelines for financial markets. My focus is on applying advanced statistical and machine learning techniques to solve concrete problems in asset pricing, risk management, and alternative data analysis.
 
