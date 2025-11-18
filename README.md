@@ -1,18 +1,18 @@
 ### Hi, I'm Alexios Philalithis 
 
-Computer Science (BSc Hons) | University of Manchester | Seeking Quantitative, Data Engineering and Machine Learning roles.
+Computer Science (BSc Hons) | University of Manchester | 3rd year | Seeking Quantitative, Data Engineering and Machine Learning roles.
 
-I build reliable, empirical models and high-performance data pipelines for financial markets. My focus is on applying advanced statistical and machine learning techniques to solve concrete problems in asset pricing, risk management, and alternative data analysis.
+I build reliable, empirical models and high-performance data pipelines for financial markets. My focus is on applying advanced statistical and machine learning techniques to solve concrete problems in asset\derrivative pricing, risk management, and alternative data analysis.
 
 ---
 
 ### Technical Toolkit
 
-*   **Quantitative Python:** NumPy, pandas, SciPy, statsmodels, Numba, JAX
+*   **Quantitative Python:** NumPy, pandas, SciPy, Numba, JAX
 *   **Machine Learning:** scikit-learn, PyTorch (fundamentals), feature engineering, model validation
-*   **Data Engineering:** SQL (advanced query optimization), Spark (pyspark), Docker, Airflow, Linux
+*   **Data Engineering:** SQL (advanced query optimization), Docker, Linux
 *   **Development:** Git, CI/CD, Unit Testing, Object-Oriented Design, C++
-*   **Finance:** Stochastic Calculus, Options Pricing, Factor Investing, NLP, Risk Metrics
+*   **Finance:** Stochastic Calculus, Options Pricing, Credit Risk analysis, NLP, Risk Metrics
 
 ---
 
@@ -31,6 +31,11 @@ An end-to-end pipeline to transform unstructured news into quantitative signals.
 *   **NLP:** Applied deduplication, entity recognition, and sentiment analysis to generate actionable alpha factors.
 *   **Impact:** **Reduced manual ESG screening time by 90%+**, providing a scalable framework for alternative data integration.
 
+#### Predicting Corporate Credit Rating Transitions Using Machine Learning (Ongoing Final Year Honours Project)
+An in depth year long project on usig Machine Learning to predict credit rating transitions
+*  **Dataset:** Constructed a dateset of S&P 500 and MidCap 400 firms spanning investment grades and rating histories back 10 years
+* **Features:** Engineered market-implied, fundamental, macro and bond market features 
+* **Models:** Benchmarking gradient boosting, random forests, and logistic regression for multi-class prediction
 ---
 
 ### Publications & Write-Ups
@@ -44,7 +49,6 @@ I maintain detailed write-ups for all projects, explaining the financial motivat
 
 ### Let's Connect
 
-I am actively pursuing opportunities for Summer 2026.
 *   **LinkedIn:** [Let's connect on LinkedIn](https://www.linkedin.com/in/alexios-p/)
 *   **Email:** alexios0905@gmail.com
 
