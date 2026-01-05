@@ -2,7 +2,7 @@
 
 Computer Science (BSc Hons) | University of Manchester | 3rd year | Seeking Quantitative, Data Engineering and Machine Learning roles.
 
-I build reliable, empirical models and high-performance data pipelines for financial markets. My focus is on applying advanced statistical and machine learning techniques to solve concrete problems in asset\derrivative pricing, risk management, and alternative data analysis.
+I build reliable, empirical models and high-performance data pipelines for financial markets. My focus is on applying advanced statistical and machine learning techniques to solve concrete problems in asset\derrivative pricing, risk management, alternative data analysis and other financial contexts
 
 ---
 
