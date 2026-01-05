@@ -8,11 +8,11 @@ I build reliable, empirical models and high-performance data pipelines for finan
 
 ### Technical Toolkit
 
-*   **Quantitative Python:** NumPy, pandas, SciPy, Numba, JAX
+*   **Quantitative Python:** NumPy, pandas, SciPy
 *   **Machine Learning:** scikit-learn, PyTorch, feature engineering, model validation
 *   **Data Engineering:** SQL (advanced query optimization), Docker, Linux
-*   **Development:** Git, CI/CD, Unit Testing, Object-Oriented Design, C++
-*   **Finance:** Stochastic Calculus, Options Pricing, Credit Risk analysis, NLP, Risk Metrics
+*   **Development:** Git, Unit Testing, Object-Oriented Design
+*   **Finance:** Stochastic Calculus, Options Pricing, Credit Risk analysis, NLP, Time Series Analysis, Multivariate Statistics
 
 ---
 
