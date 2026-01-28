@@ -38,11 +38,6 @@ An in depth year long project on usig Machine Learning to predict credit rating 
 * **Models:** Benchmarking gradient boosting, random forests, and logistic regression for multi-class prediction
 ---
 
-### Publications & Write-Ups
-
-I maintain detailed write-ups for all projects, explaining the financial motivation, mathematical underpinnings, and technical implementation.
-*   **"Implementing and Calibrating the Heston Model for Volatility Smiles"** - A deep dive into stochastic volatility models.
-
 > **Note:** All repositories contain original code and my own analysis. They do not contain proprietary data, assignment briefs, or marking schemes.
 
 ---
