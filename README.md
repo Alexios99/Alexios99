@@ -25,17 +25,18 @@ A high-performance library implementing numerical methods for derivatives pricin
 *   **Performance:** Achieved ≤1 bp pricing error on European options; leveraged Numba/JAX for >100x speedups on GPU.
 *   **Risk:** Calculated full option Greeks and dynamic delta-hedging simulations.
 
+#### [Predicting Corporate Credit Rating Transitions Using Machine Learning (Ongoing Final Year Honours Project)](https://github.com/Alexios99/Predicting-Corporate-Credit-Rating-Transitions-Using-Machine-Learning)
+An in depth year long project on usig Machine Learning to predict credit rating transitions
+*  **Dataset:** Constructed a dateset of S&P 500 and MidCap 400 firms spanning investment grades and rating histories back 10 years
+* **Features:** Engineered market-implied, fundamental, macro and bond market features 
+* **Models:** Benchmarking gradient boosting, random forests, and logistic regression for multi-class prediction
+
 #### [ESG News Quant Pipeline](https://github.com/Alexios99/Automated-News-Briefing)
 An end-to-end pipeline to transform unstructured news into quantitative signals.
 *   **Architecture:** Built a multi-stage Python pipeline ingesting from NewsAPI and other sources.
 *   **NLP:** Applied deduplication, entity recognition, and sentiment analysis to generate actionable alpha factors.
 *   **Impact:** **Reduced manual ESG screening time by 90%+**, providing a scalable framework for alternative data integration.
 
-#### Predicting Corporate Credit Rating Transitions Using Machine Learning (Ongoing Final Year Honours Project)
-An in depth year long project on usig Machine Learning to predict credit rating transitions
-*  **Dataset:** Constructed a dateset of S&P 500 and MidCap 400 firms spanning investment grades and rating histories back 10 years
-* **Features:** Engineered market-implied, fundamental, macro and bond market features 
-* **Models:** Benchmarking gradient boosting, random forests, and logistic regression for multi-class prediction
 ---
 
 > **Note:** All repositories contain original code and my own analysis. They do not contain proprietary data, assignment briefs, or marking schemes.
